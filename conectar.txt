@@ -1,0 +1,5 @@
+Server=localhost
+Port=3307
+Database=barracao0808
+Uid=root
+Pwd=12345678
